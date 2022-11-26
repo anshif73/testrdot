@@ -1,0 +1,47 @@
+.sticky-top, .logo{
+    width: 15vw;
+    height : 15vw;
+    margin: 20px;
+    margin-left: 50px;
+    
+}
+body{
+    background-image: url(assets/photo3.jpg);
+    no-repeat center center fixed;
+    -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+}
+
+.menu, a{
+    text-decoration: none;
+display: inline;
+
+width: 50px;
+padding-left: 30px;
+height: 40px;
+overflow: auto; 
+
+    position: sticky;
+    color: black;
+    font-weight: 900;
+    font-size: 7vw;
+    font-family: 'Playfair Display', serif;
+    text-decoration: none;
+ 
+    margin-left: 50px;
+    margin-top: 200px;
+
+}
+
+
+
+    a:hover{
+        
+   
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
